@@ -53,10 +53,9 @@
 <br>
 
 <p align="center">
-  <img height="195" width="48%" src="https://github-readme-stats.vercel.app/api?username=Seif9474&show_icons=true&theme=react&border_radius=10" alt="Seif Stats" />
-  <img height="195" width="48%" src="https://streak-stats.demolab.com/?user=Seif9474&theme=react&border_radius=10" alt="Seif Streak" />
+  <img height="190" width="48%" src="https://github-readme-stats.vercel.app/api?username=Seif9474&show_icons=true&theme=react&border_radius=10" alt="Seif Stats" />
+  <img height="190" width="48%" src="https://streak-stats.demolab.com/?user=Seif9474&theme=react&border_radius=10" alt="Seif Streak" />
 </p>
----------------------
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seif9474&layout=compact&theme=react&hide=html,css&border_radius=10" alt="Top Languages" />
 </p>
