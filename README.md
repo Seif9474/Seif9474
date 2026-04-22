@@ -1,3 +1,4 @@
+
 # Hi there, I'm Seif Elbastawisi 👋
 ### Frontend Developer | React Specialist | Cybersecurity Enthusiast
 
@@ -6,6 +7,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Seif+Elbastawisi;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+
+<p align="center">
+  <img src="header.png" alt="Seif Elbastawisi Header" width="100%">
+</p>
 
 ## 🚀 About Me
 - 👨‍💻 **Frontend Developer** specializing in building high-performance web applications using **React**.
