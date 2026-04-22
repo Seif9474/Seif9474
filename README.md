@@ -74,5 +74,37 @@
 <h4 align="center">
   <a href="https://github.com/Seif9474?tab=repositories">🔎 تصفح كافة المشاريع والمستودعات 🔍</a>
 </h4>
+--------------------------------------------------------------------
+<hr>
+
+<h2 align="center">🤝 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seifelbastawisi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:seifelbastawisi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/201223773256" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Seif9474" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/seifelbastawisi" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Seif9474&label=Profile%20Views&color=61dafb&style=flat" alt="Profile Views" />
+</p>
 ---
 ✨ *Currently focusing on bridging the gap between high-performance Frontend applications and robust Web Security.*
