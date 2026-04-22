@@ -27,16 +27,14 @@
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🛡️ Cybersecurity & Tools (Web Pen-Testing)
+### 🛡️ Cybersecurity & Tools (Web Penetration Testing)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
-[![](https://img.shields.io/badge/-💉%20Web%20Vulnerability%20Research-000)](#)
-[![](https://img.shields.io/badge/-🔍%20Penetration%20Testing%20Roadmap-000)](#)
-[![](https://img.shields.io/badge/-🌐%20Network%20Security%20Basics-000)](#)
-
+[![Web Vulnerability Research](https://img.shields.io/badge/Web_Vulnerability_Research-CC0000?style=for-the-badge&logo=bugcrowd&logoColor=white)](#)
+[![Penetration Testing](https://img.shields.io/badge/Penetration_Testing_Roadmap-000000?style=for-the-badge&logo=kali-linux&logoColor=white)](#)
+[![Network Security](https://img.shields.io/badge/Network_Security_Basics-102C47?style=for-the-badge&logo=wireshark&logoColor=white)](#)
 
 ### 🛠️ Featured Projects
 
