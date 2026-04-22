@@ -44,29 +44,35 @@
 [![](https://img.shields.io/badge/-🎓%20Online%20Courses%20Platform-000)](#) *Full integration with REST APIs*
 [![](https://img.shields.io/badge/-🍽️%20Dynamic%20Restaurant%20Site-000)](#) *Modern UI/UX with React*
 [![](https://img.shields.io/badge/-🤖%20AI%20Integrated%20Workflows-000)](#) *Exploring AI in Frontend*
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br>
 
-### 📊 GitHub Stats
-
-<a href="https://github.com/seifelbastawisi"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=seifelbastawisi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=61dafb&bg_color=ffffff&theme=react" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifelbastawisi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=61dafb&bg_color=ffffff&theme=react" /></a>
----------------------------------------------------------------------------------
-
-## 📈 My GitHub Growth
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Seif9474&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Seif9474&show_icons=true&theme=react&border_radius=10" alt="Seif Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Seif9474&theme=react&border_radius=10" alt="Seif Streak" />
 </p>
 
----
-
-## 🤝 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/seifelbastawisi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Seif Elbastawisi" height="30" width="40" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email Me" height="30" width="40" /></a>
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seif9474&layout=compact&theme=react&hide=html,css&border_radius=10" alt="Top Languages" />
 </p>
 
----
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Seif9474&theme=react-dark&bg_color=20232a&hide_border=true&border_radius=10" alt="Activity Graph" />
+</p>
 
-## 🎧 What I'm Learning Right Now
-- [ ] Advanced Web Penetration Testing.
-- [ ] Scaling React Apps with AI integration.
+<hr>
+
+<h2 align="center">👨‍💻 Contribution Overview 👨‍💻</h2>
+<br>
+
+<p align="center">
+  <a href="https://github.com/Seif9474?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seif9474&theme=react" width="100%" alt="Profile Summary" />
+  </a>
+</p>
+
+<h4 align="center">
+  <a href="https://github.com/Seif9474?tab=repositories">🔎 تصفح كافة المشاريع والمستودعات 🔍</a>
+</h4>
 ---
 ✨ *Currently focusing on bridging the gap between high-performance Frontend applications and robust Web Security.*
