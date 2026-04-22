@@ -36,6 +36,8 @@
 [![Penetration Testing](https://img.shields.io/badge/Penetration_Testing_Roadmap-000000?style=for-the-badge&logo=kali-linux&logoColor=white)](#)
 [![Network Security](https://img.shields.io/badge/Network_Security_Basics-102C47?style=for-the-badge&logo=wireshark&logoColor=white)](#)
 
+---
+
 ### 🛠️ Featured Projects
 
 [![](https://img.shields.io/badge/-🛒%20E--Commerce%20Platform-000)](#) *Built with Redux & Tailwind*
